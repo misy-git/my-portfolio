@@ -1,3 +1,33 @@
+article h1, article h2, article h3 {
+  color: #ffffff;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+article h1 { font-size: 1.75rem; }
+article h2 { font-size: 1.4rem; }
+article h3 { font-size: 1.15rem; }
+
+article p {
+  color: #c8cad8;
+  margin-bottom: 1.25rem;
+  line-height: 1.8;
+}
+
+article strong {
+  color: #ffffff;
+}
+
+article em {
+  color: #a8aabb;
+}
+
+article hr {
+  border-color: #2a2d3e;
+  margin: 2rem 0;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Sora:wght@300;400;600;700;800&family=DM+Mono:wght@400;500&display=swap');
 
 @tailwind base;

@@ -14,8 +14,8 @@ export default function Contact() {
 
   return (
     <section id="contact" style={{ padding: "6rem 2rem", maxWidth: "1100px", margin: "0 auto" }}>
-      <p className="section-label">09 — contact</p>
-      <h2 style={{ fontSize: "2rem", fontWeight: 700, letterSpacing: "-0.5px", marginBottom: "0.25rem" }}>Let&apos;s Talk</h2>
+      <p className="section-label">08 — contact</p>
+      <h2 style={{ fontSize: "2rem", fontWeight: 700, letterSpacing: "-0.5px", marginBottom: "0.25rem" }}>Let&apos;s interact</h2>
       <p style={{ color: "#8b8ea8", fontSize: "0.875rem", marginBottom: "2.5rem" }}>Open to internships, collaborations, and opportunities.</p>
       <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "3rem" }}>
         <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
